@@ -1,0 +1,37 @@
+body {
+    width: 600px;
+    margin: auto;
+    background: url(images/shatter-1280.jpg);
+}
+
+h1 {
+    font-family: 'Frijole', cursive;
+    font-size: 50px;
+    text-align: center;
+    border-bottom: 1px white solid;
+    color: white;
+}
+
+#playerInfo {
+  font-family: 'Finger Paint', cursive;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+#start {
+    font-size: 30px;
+    font-family: 'Finger Paint', cursive;
+    text-align: center;
+    color: white;
+}
+
+.gameBoard {
+    font-family: 'Frijole', cursive;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
